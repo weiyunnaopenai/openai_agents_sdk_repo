@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "openai_agents_sdk_repo"
+  site-url: "https://weiyunnaopenai.github.io/openai_agents_sdk_repo"
+  description: "this repo contains contents on openai agents sdk enablement"
+  repo-branch: main
+  repo-url: "https://github.com/weiyunnaopenai/openai_agents_sdk_repo"
