@@ -1,3 +1,12 @@
 [build-system]
 requires = ["setuptools>=64.0","openai>=1.101.0", "openai-agents>=0.2.9"]
 build-backend = "setuptools.build_meta"
+
+[project]
+name = "openai_agents_sdk_repo"
+version = "0.0.1"
+dependencies = [
+  "openai>=1.101.0",
+  "openai-agents>=0.2.9"
+]
+
